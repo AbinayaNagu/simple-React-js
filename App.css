@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+body {
+  font-family: 'Titillium Web', sans-serif
+
+}
+.heading {
+  font-weight: 700;
+  font-height:200;
+
+}
+.subheading {
+  font-weight: 300;
+}
